@@ -1,7 +1,7 @@
 # GHSS-THENKURISSI
 <html>
     <head>
-        <title> My School Page </title>
+        <tittle> My School Page </tittle>
     </head>
     <body bgcolor="lightred">
         <center>My School is <B> GHSS THENKURISSI </B></center>
