@@ -3,6 +3,7 @@
     <head>
         <tittle> My School Page </tittle>
     </head>
+    <br>
     <body bgcolor="lightred">
         <center>My School is <B> GHSS THENKURISSI </B></center>
         <br>
