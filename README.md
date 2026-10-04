@@ -1,10 +1,11 @@
 # GHSS-THENKURISSI
 <html>
     <head>
-        <title>My School Page</title>
+        <title> My School Page </title>
     </head>
     <body bgcolor="lightred">
         <center>My School is <B> GHSS THENKURISSI </B></center>
+        <br>
         Courses Are:
         <ul>
             <li>biology science</li>
