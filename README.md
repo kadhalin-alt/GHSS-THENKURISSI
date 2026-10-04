@@ -1,0 +1,2 @@
+# GHSS-THENKURISSI
+&lt;html>     &lt;head>         &lt;title>My School Page&lt;/title>     &lt;/head>     &lt;body bgcolor="lightred">         &lt;center>My School is &lt;B> GHSS THENKURISSI &lt;/B>&lt;/center>         Courses Are:         &lt;ul>             &lt;li>biology science&lt;/li>             &lt;li>computer science&lt;/li>             &lt;li>commers&lt;/li>             &lt;li>humanities&lt;/li>&lt;/ul>&lt;/body>&lt;/html>
