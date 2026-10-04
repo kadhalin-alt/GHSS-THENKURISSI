@@ -1,4 +1,3 @@
-# GHSS-THENKURISSI
 <html>
     <head>
         <tittle> My School Page </tittle>
